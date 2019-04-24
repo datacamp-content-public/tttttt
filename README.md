@@ -1,4 +1,4 @@
-# **Course Title**<br/>by **Author**
+# **Course Title**<br/>by **Author 2**
 
 Specs deadline: YYYY-MM-DD
 
